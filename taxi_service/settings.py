@@ -36,6 +36,7 @@ INTERNAL_IPS = [
 # Application definition
 
 CRISPY_TEMPLATE_PACK = "bootstrap4"
+CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap4"
 
 INSTALLED_APPS = [
     "django.contrib.admin",
